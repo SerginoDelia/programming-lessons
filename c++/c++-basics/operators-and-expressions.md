@@ -12,6 +12,8 @@ Arithmetic
 
     mod allowed on int and characters
 
+    #include <cmath>
+
 Relational
     < > <= >= ==
 
